@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+pydantic
+pytest
+pydantic[email]
+httpx
